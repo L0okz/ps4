@@ -1,0 +1,20 @@
+CACHE MANIFEST
+# generated automatically for the GoldHEN-only build
+# 2026-11-03T11:44:12Z
+
+cache.html #694d5488d9eb693756f1a702a7ebf085
+index.html #c62a07358f55d2e7e37f3b120eec745e
+exploit.html #daa3fed7be835f47408f143ab35f8307
+launch.js #b1b5c97badacb1d5b32ff3a6c542eb26
+exploit.js #26c170aa4cb280f371e5e69859017e20
+core.js #4ecf3828270c528d0885e3eb1be4688b
+mem.js #71f700963b0fd2da1fd877122561a343
+int64.js #611da6a52da5ecf970a3718ab2a4561d
+ps4_offsets.js #2bc41955c506c71d6f297a44d009177d
+afterglow.js #c465d8274199f93a699ee21fd8b98753
+oup/1400.bin #615f275b96831cc04173757db39e93f0
+oup/1352.bin #adfb9771904f71cd1f5a82cbded8ac46
+goldhen.bin #39452f5e1c305ac9efcb4745eef7958b
+
+NETWORK:
+*
